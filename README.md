@@ -8,8 +8,9 @@
 <img src="./figures/figure 8 accuracy under different positions.png" width="60%">
 
 ## C3: User test and usability statements (564B, 564C, 564D)
-<img src="./figures/figure 12 challenge code length impact.png" width="50%">
-<img src="./figures/figure 13 registration time cost.png" width="50%"><img src="./figures/figure 14 authentication time cost.png" width="50%">
+<img src="./figures/figure 12 challenge code length impact.png" width="30%">
+<img src="./figures/figure 13 registration time cost.png" width="30%">
+<img src="./figures/figure 14 authentication time cost.png" width="30%">
 
 ## 564C_Response
 <img src="./figures/table 5 AI voice cloning attack.png" width="70%">
